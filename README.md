@@ -57,7 +57,16 @@
 ###
 
 <h2 align="left">Project</h2>
-<p align="left"><strong>NursEdu Interactive Website<strong><br>•Designed and implemented user interface elements such as buttons, forms, menus, and navigation bars.<br>•Made all pages responsive for mobile, iPad, tablet, and desktop devices.<br>•Identified and implemented dynamic web solutions in accordance with client standards.<br>PANDODA Game<br>•Design Character Animation: Attack, Run , Turn-left/right<br>•Map Design: Level Structure, Obstacle Placement, Enemy Spawning, Item Placement.<br>•Elements and Objects: Interactive Objects, Environmental Elements, Enemy/Player Character<br>NextJS Portfolio Tutorial <br>-</p>
+<p align="left">>NursEdu Interactive Website<br>
+  •Designed and implemented user interface elements such as buttons, forms, menus, and navigation bars.<br>
+  •Made all pages responsive for mobile, iPad, tablet, and desktop devices.<br>
+  •Identified and implemented dynamic web solutions in accordance with client standards.<br>
+  PANDODA Game<br>•Design Character Animation: Attack, Run , Turn-left/right.<br>
+  •Map Design: Level Structure, Obstacle Placement, Enemy Spawning, Item Placement.<br>
+  •Elements and Objects: Interactive Objects, Environmental Elements, Enemy/Player Character.<br>
+  NextJS Portfolio Tutorial <br>
+  •Created a beginner-friendly portfolio using Next.js, learning concepts like client-side rendering and routing.<br>
+  •Showcased web development skills by building a basic portfolio website with Next.js and styled-components.
 
 
 ###
