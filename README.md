@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am currently Bachelor a degree in Computer Science and seeking an internship opportunity as a Front-end Developer or UX/UI Designer, <br>          where I can apply my skills and creativity to contribute to impactful projects.</p>
+<p align="left">I am currently Bachelor a degree in Computer Science and seeking an internship opportunity as a Front-end Developer or UX/UI Designer, <br>where I can apply my skills and creativity to contribute to impactful projects.</p>
 
 ###
 
