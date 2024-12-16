@@ -58,7 +58,7 @@
 
 <h2 align="left">Project</h2>
 <p align="left">
-  <strong>NursEdu Interactive Website<br>
+  <strong>NursEdu Interactive Website</strong><br>
   •Designed and implemented user interface elements such as buttons, forms, menus, and navigation bars.<br>
   •Made all pages responsive for mobile, iPad, tablet, and desktop devices.<br>
   •Identified and implemented dynamic web solutions in accordance with client standards.<br>
