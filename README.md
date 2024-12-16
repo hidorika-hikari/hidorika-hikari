@@ -57,8 +57,7 @@
 ###
 
 <h2 align="left">Project</h2>
-<p align="left">NursEdu Interactive Website<br>-Designed and implemented user interface elements such as buttons, forms, menus, and<br>navigation bars.<br>-Made all pages responsive for mobile, iPad, tablet, and desktop devices.<br>-Identified and implemented dynamic web solutions in accordance with client standards.<br>PANDODA Game<br>-Design Character Animation: Attack, Run , Turn-left/right<br>-Map Design: Level Structure, Obstacle Placement, Enemy Spawning, Item Placement.<br>-Elements and Objects: Interactive Objects, Environmental Elements, Enemy/Player Character<br>NextJS Portfolio Tutorial <br>-</p>
-<h3 align="left">NursEdu For Interactive<br> ● Designed and implemented user interface elements such as buttons, forms, menus, and navigation bars.<br> ● Made all pages responsive for mobile, iPad, tablet, and desktop devices.<br> ● Identified and implemented dynamic web solutions in accordance with client standards.</h3>
+<p align="left">NursEdu Interactive Website<br>•Designed and implemented user interface elements such as buttons, forms, menus, and navigation bars.<br>•Made all pages responsive for mobile, iPad, tablet, and desktop devices.<br>•Identified and implemented dynamic web solutions in accordance with client standards.<br>PANDODA Game<br>•Design Character Animation: Attack, Run , Turn-left/right<br>•Map Design: Level Structure, Obstacle Placement, Enemy Spawning, Item Placement.<br>•Elements and Objects: Interactive Objects, Environmental Elements, Enemy/Player Character<br>NextJS Portfolio Tutorial <br>-</p>
 
-###
+
 ###
