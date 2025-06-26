@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo3V47v-zSGCszCsvZoNEpHqmuq92GsLLdrkHShL_RdqnfUL4z1D4voMil2oLbNmltuf6pgM_Z-ywWfz-JnIC-Bw"  />
+<img align="right" height="200" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo3V47v-zSGCszCsvZoNEpHqmuq92GsLLdrkHShL_RdqnfUL4z1D4voMil2oLbNmltuf6pgM_Z-ywWfz-JnIC-Bw"  />
 
 ###
 
